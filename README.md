@@ -1,4 +1,5 @@
 Live Link :  <a>https://pokemon-server-63cea.web.app/</a>
+usage: tailwind css,react js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
